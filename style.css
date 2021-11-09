@@ -1,0 +1,31 @@
+h1 {
+    background-color: black;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-bottom: 3px;
+    margin-bottom: 4px;
+}
+
+.cloud{
+    color: cyan;
+}
+
+h2{
+    text-align: center;
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    font-family: sans-serif;
+    margin-top: auto;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: normal;
+}
+
+h3 {
+    text-align: right;
+    text-decoration: underline;
+    padding-right: 20px;
+    background-color: rgb(133, 182, 238);
+    font-weight: 400;
+}
